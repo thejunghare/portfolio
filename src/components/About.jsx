@@ -1,6 +1,5 @@
 import React from 'react'
 import { HiArrowNarrowRight } from 'react-icons/hi'
-import me from '../public/me.jpeg';
 
 const About = () => {
     return (
@@ -33,13 +32,6 @@ const About = () => {
                         </a>
                     </div>
                 </div>
-                {/* <div>
-                    <img
-                        src={me}
-                        alt="my profile"
-                        className="rounded-2xl mx-auto w-2/3 md:w-full"
-                    />
-                </div> */}
             </div>
         </div>
     );
